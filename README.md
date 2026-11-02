@@ -13,3 +13,7 @@
 ``` html
 <H1> Learning Markdown format <H1>
 ```
+# Table
+
+| No | Name | Email |
+| 1 | john | john@gmail.com |
