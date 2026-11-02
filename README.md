@@ -26,8 +26,7 @@
 ![Image] (https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp)
 
 # Tasks 
-
-- [ ] Heading Format
-- [ ] Image
-- [ ] Urls
-- [ ] Table 
+- [X] Heading format
+- [X] Image
+- [X] Urls
+- [X] Table 
