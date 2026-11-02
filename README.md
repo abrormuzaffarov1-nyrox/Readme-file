@@ -27,7 +27,7 @@
 
 # Tasks 
 
-- [] Heading Format
-- [] Image
-- [] Urls
-- [] Table 
+- [ ] Heading Format
+- [ ] Image
+- [ ] Urls
+- [ ] Table 
