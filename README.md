@@ -16,4 +16,5 @@
 # Table
 
 | No | Name | Email |
+|----|------|-------|
 | 1 | john | john@gmail.com |
